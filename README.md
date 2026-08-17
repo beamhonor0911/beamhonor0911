@@ -4,7 +4,7 @@
 
 ### 🎓 Electronics & Communication Engineering Student at IIT Guwahati
 
- • C • Machine Learning • Programming • Artifical Intelligance
+ • Deep Learning • Machine Learning • Programming • Artifical Intelligence • LLM & NLP
 
 </div>
 
@@ -14,9 +14,8 @@
 
 - 🎓 Electronics & Communication Engineering student at **IIT Guwahati**
 - 🤖 Exploring **Machine Learning and Artificial Intelligence**
-- 🔧 Working with **Arduino, sensors, motors and control algorithms**
-- 📈 Currently exploring **PID Control, Motor Control and Observer-based Systems**
-- 💻 Improving my skills in **Python, C/C++, MATLAB and Data Structures**
+- 📈 Currently exploring **Currently exploring Machine Learning projects.**
+- 💻 Improving my skills in **Python, C/C++ and Data Structures**
 - 🚀 Building projects and continuously learning new technologies
 
 ---
@@ -27,7 +26,7 @@
   <a href="https://github.com//beamhonor0911">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anshumaan-shr09/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -57,10 +56,8 @@
 ### 🔧 Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNU_Radio-FF6600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
@@ -73,15 +70,16 @@
 - 🧠 Data Structures & Algorithms
 - 🐍 Python Programming
 - 💻 C/C++ Programming
+- 🤖Artifical Intelligence
 
 ---
 
 ## 💡 Interests
 
 ```text
-Control Systems       ████████████████████
-Embedded Systems      ██████████████████
-Machine Learning      ████████████████
-Programming           ███████████████████
-Data Structures       ███████████████
-Computer Networks     █████████████
+Neural Networks          ████████████████████
+Artifical Intelligence   ██████████████████
+Machine Learning         ████████████████
+Programming              ███████████████████
+Data Structures          ███████████████
+LLM & NLP                █████████████
